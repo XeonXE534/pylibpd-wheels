@@ -20,5 +20,5 @@ These wheels are built as **Vanilla-only** versions of `libpd`. To ensure maximu
 You can install the wheels directly via pip:
 
 ```bash
-pip install pypdlib-0.14.0-cp313-cp313-linux_x86_64.whl
+pip install pylibpd
 
